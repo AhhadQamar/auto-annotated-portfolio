@@ -35,7 +35,7 @@ sections:
       caption: Caption of the image
       elementId: 'border-radius:{10px};'
     colors: colors-c
-    backgroundSize: inset
+    backgroundSize: full
     elementId: ''
     styles:
       self:
