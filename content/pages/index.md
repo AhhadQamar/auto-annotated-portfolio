@@ -33,7 +33,7 @@ sections:
       url: /images/WhatsApp Image 2025-03-03 at 16.45.15_1885cf32.jpg
       altText: Hero image
       caption: Caption of the image
-      elementId: 'border-radius:{'
+      elementId: 'border-radius:{10px};'
     colors: colors-c
     backgroundSize: full
     elementId: ''
