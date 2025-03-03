@@ -34,7 +34,7 @@ sections:
       altText: Hero image
       caption: Caption of the image
       elementId: 'border-radius:{10px};'
-    colors: colors-d
+    colors: colors-c
     backgroundSize: full
     elementId: ''
     styles:
